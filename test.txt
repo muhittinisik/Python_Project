@@ -1,4 +1,3 @@
-
 ögrenci_nu  istedigi_bran
 
 
@@ -9,4 +8,10 @@ tommyhappy  fullstack
 ögrenci_nu  istedigi_brans
 c8381-tommy  AWS devops
 c8381-happy  data s.
+
+ögrenci_nu  istedigi_branch
+guzel calisma
+ögrenci_nu  istedigi_brans
+benim çalışmam
+
 
