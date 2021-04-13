@@ -1,1 +1,3 @@
 ögrenci_nu  istedigi_brans
+
+C8370-Salih  Data Science
