@@ -1,1 +1,6 @@
-ögrenci_nu  istedigi_brans
+ögrenci_nu  istedigi_bran
+
+
+
+tommyhappy  fullstack
+
