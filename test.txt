@@ -1,1 +1,2 @@
-ögrenci_nu  istedigi_brans
+ögrenci_nu  istedigi_branch
+guzel calisma
